@@ -84,7 +84,9 @@ app.use("/listings",listings)
 app.use("/listings/:id/reviews",reviews)
 app.use("/",user)
 
-
+app.get("/", (req, res) => {
+    res.redirect("/listings");
+});
 
 
 app.all("/{*splat}",(req,res,next)=>{

@@ -10,6 +10,31 @@ StayNest allows users to discover and search properties, create accounts, add an
 **GitHub Repository:** https://github.com/aarav753/StayNest
 
 ---
+## 📸 Screenshots
+
+### 🏠 Listings Page
+
+![StayNest Listings](screenshots/home.png)
+
+### 🏡 Listing Details
+
+![Listing Details](screenshots/listing.png)
+
+### 🔐 Login
+
+![Login](screenshots/login.png)
+
+### ➕ Create Listing
+
+![Create Listing](screenshots/new-listing.png)
+
+### 🗺️ Location Map
+
+![Map](screenshots/map.png)
+
+### 🗺️ Reviews
+
+![Reviews](screenshots/reviews.png)
 
 ## ✨ Features
 

@@ -84,9 +84,7 @@ app.use("/listings",listings)
 app.use("/listings/:id/reviews",reviews)
 app.use("/",user)
 
-app.get("/",(req,res)=>{
-    res.send("Hi,I am root");
-});
+
 
 
 app.all("/{*splat}",(req,res,next)=>{
